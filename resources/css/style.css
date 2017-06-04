@@ -31,3 +31,8 @@ p c{
   text-align: right;
   color: Gray;
 }
+
+p video,
+p imgen{
+  text-align: center;
+}
